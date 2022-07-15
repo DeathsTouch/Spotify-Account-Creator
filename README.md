@@ -15,7 +15,8 @@ This was made to show you how easy it is to abuse a website like this. People ca
 6. All Created Accounts will be in, Created [CAPTURE].txt and Created [RAW].txt
 
 # Preview
-![proxiepre](https://user-images.githubusercontent.com/109363279/179251418-d524e01b-9d6d-47fd-9db9-35f8ff1dd1e6.PNG)
+
+![proxiepre](https://user-images.githubusercontent.com/109363279/179252841-e7f3bf23-504f-4594-99c9-d69458899391.PNG)
 
 ![preacc](https://user-images.githubusercontent.com/109363279/179251434-9726e566-fd8d-4451-9c00-481ea595eec9.PNG)
 
